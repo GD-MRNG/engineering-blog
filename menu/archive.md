@@ -4,7 +4,7 @@ title: "Archive"
 permalink: /archive
 ---
 
-![Tier 1](/assets/img/tier_1.jpg)
+<img src="{{ site.github.url }}/assets/img/tier_1.jpg">
 
 ## Tier 1: Foundation Knowledge
 
@@ -16,7 +16,7 @@ These are the mental models that must be in place before the rest of the map mak
 
 `CONCEPT` [1.3 Service Architecture Awareness]({{ "/13-service-architecture-awareness" | relative_url }})
 
-![Tier 2](/assets/img/tier_2.jpg)
+<img src="{{ site.github.url }}/assets/img/tier_2.jpg">
 
 ## Tier 2: Core Lifecycle Stages
 
@@ -36,7 +36,7 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.7 Infrastructure as Code (IaC)]({{ "/27-infrastructure-as-code-iac" | relative_url }})
 
-![Tier 3](/assets/img/tier_3.jpg)
+<img src="{{ site.github.url }}/assets/img/tier_3.jpg">
 
 ## Tier 3: Cross-Cutting Disciplines
 
