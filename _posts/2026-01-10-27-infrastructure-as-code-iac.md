@@ -4,6 +4,7 @@ title: "2.7 Infrastructure as Code (IaC)"
 author: "Glenn Lum"
 date:   2026-01-10 11:00:00 +0800
 categories: journal
+image: tier_2.jpg
 tags: [Tier 2, Core Lifecycle Stages, Concept]
 ---
 

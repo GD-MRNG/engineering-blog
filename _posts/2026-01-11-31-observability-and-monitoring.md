@@ -4,6 +4,7 @@ title: "3.1 Observability and Monitoring"
 author: "Glenn Lum"
 date:   2026-01-11 11:00:00 +0800
 categories: journal
+image: tier_3.jpg
 tags: [Tier 3, Cross-Cutting Disciplines, Concept]
 ---
 

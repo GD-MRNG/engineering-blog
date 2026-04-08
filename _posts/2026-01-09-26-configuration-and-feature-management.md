@@ -4,6 +4,7 @@ title: "2.6 Configuration and Feature Management"
 author: "Glenn Lum"
 date:   2026-01-09 11:00:00 +0800
 categories: journal
+image: tier_2.jpg
 tags: [Tier 2, Core Lifecycle Stages, Concept]
 ---
 

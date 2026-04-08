@@ -4,6 +4,7 @@ title: "1.3 Service Architecture Awareness"
 author: "Glenn Lum"
 date:   2026-01-03 11:00:00 +0800
 categories: journal
+image: tier_1.jpg
 tags: [Tier 1,Foundation Knowledge,Concept]
 ---
 
