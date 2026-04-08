@@ -19,3 +19,5 @@ A **monolithic architecture** is one where all the functionality of your applica
 **Event-driven architectures** add another dimension: services communicate not through direct synchronous calls but through events published to a shared message bus. Service A publishes "Order Placed" and does not wait for a response. Service B, which is responsible for sending confirmation emails, subscribes to that event and processes it independently. This decoupling is powerful for scalability and resilience, but it makes debugging considerably harder, because the relationship between cause and effect is no longer direct or synchronous.
 
 The reason this belongs in your foundational layer is that an operational strategy cannot be designed in the abstract. Deployment strategies, testing strategies, observability strategies, and reliability patterns all need to be chosen with full awareness of the architectural context. The decision to "just restart the server" works for a monolith. In a microservices environment with dozens of interdependent services, it can cause a cascading failure that takes hours to resolve.
+
+[← Back to Home]({{ "/" | relative_url }})

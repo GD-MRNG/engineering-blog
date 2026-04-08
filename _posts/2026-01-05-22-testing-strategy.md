@@ -5,10 +5,8 @@ author: "Glenn Lum"
 date:   2026-01-05 11:00:00 +0800
 categories: journal
 image: tier_2.jpg
-tags: [Tier 2, Core Lifecycle Stages, Concept]
+tags: [Tier 2, Core Lifecycle Stages,Listing]
 ---
-
-`[Tier 2, Core Lifecycle Stages, Concept]`
 
 Testing is frequently discussed as a quality practice, but its primary operational function is something different: it is the mechanism that gives a team the confidence to deploy continuously. Without a reliable test suite, every deployment is a gamble. With one, deployment becomes a mechanical process with a known risk profile.
 
@@ -23,3 +21,5 @@ At the top of the pyramid are **end-to-end (E2E) tests**: tests that simulate a 
 **Performance and load testing** validate that the system behaves correctly not just functionally but under realistic conditions of concurrent usage. A service might pass all unit and integration tests and then fail completely when a hundred users hit it simultaneously because of an undetected database connection pool exhaustion or a memory leak that only manifests under sustained load. Performance tests establish baselines (what is the expected latency and throughput of this service under normal conditions?) and regression gates (if the latest change increases p99 latency by more than 10%, fail the pipeline).
 
 The operational consequence of your testing strategy is the speed of your feedback loop. If your CI pipeline takes forty-five minutes to complete, developers will batch their commits, accumulate changes, and introduce larger, harder-to-debug changesets. A well-designed testing strategy, one that runs fast unit tests first, runs slower integration tests only on changes that affect integration points, and reserves E2E tests for pre-production gates, can keep the feedback loop under ten minutes and make continuous integration behaviorally realistic rather than aspirationally nominal.
+
+[← Back to Home]({{ "/" | relative_url }})
