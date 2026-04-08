@@ -8,8 +8,6 @@ image: tier_1.jpg
 tags: [Tier 1,Foundation Knowledge,Concept]
 ---
 
-`[Tier 1, Foundation Knowledge, Concept]`
-
 "Where does my code actually run?" sounds like a simple question, but the answer defines almost everything about your operational model. The compute abstraction you choose determines how you deploy, how you scale, how you debug, how you handle failure, and how much you pay. Understanding the spectrum of options and their tradeoffs is essential for making any of those downstream decisions coherently.
 
 At one end of the spectrum is **bare metal and virtual machines**. Here you manage everything: the operating system, the runtime, the network configuration, the security patches, the storage volumes. You have maximum control and maximum responsibility. If you need to install a dependency, you install it. If you need to change a firewall rule, you change it directly. The operational burden is high because servers tend to become "snowflakes" over time, each one slightly different from the others because of manual changes made under pressure.

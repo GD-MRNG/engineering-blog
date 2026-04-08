@@ -8,8 +8,6 @@ image: tier_3.jpg
 tags: [Tier 3, Cross-Cutting Disciplines, Concept]
 ---
 
-`[Tier 3, Cross-Cutting Disciplines, Concept]`
-
 The traditional model of software security treated it as a final gate: you built the software, you shipped it, and then a security team audited it before (or unfortunately, after) production. This model is too slow, too late, and too disconnected from the development process to be effective. DevSecOps is the philosophy of integrating security practices directly into the development lifecycle, making security a continuous responsibility rather than a periodic event.
 
 The **"shift left" principle** describes moving security checks earlier in the development process. The cost of remediating a security vulnerability increases dramatically the later it is found. A vulnerability found by a developer in their IDE costs minutes to fix. The same vulnerability found in a security audit after deployment costs days of engineer time, stakeholder communication, and potentially customer trust. The practical implementation of shifting left includes integrating **software composition analysis (SCA)** tools into your CI pipeline (automatically scanning your dependencies for known vulnerabilities every time you build), integrating **static application security testing (SAST)** tools that analyze your code for common vulnerability patterns (SQL injection risks, insecure deserialization, hardcoded credentials) without running the code, and educating developers on secure coding practices so that vulnerabilities are less likely to be introduced in the first place.

@@ -8,8 +8,6 @@ image: tier_2.jpg
 tags: [Tier 2, Core Lifecycle Stages, Concept]
 ---
 
-`[Tier 2, Core Lifecycle Stages, Concept]` 
-
 Source control is foundational enough that most developers take it for granted, but there is a significant gap between using Git to save your work and using Git as a precision tool for collaborative engineering. The core idea is simple: every change to every file in your system is recorded, attributed, and reversible. But the operational implications run much deeper.
 
 The concept of a **branching strategy** describes how a team organizes parallel work. In **trunk-based development**, developers commit to a single shared branch (the trunk or main branch) continuously, using feature flags to hide incomplete work from users. This approach keeps integration costs low because conflicts are discovered immediately rather than accumulating over time. In **GitFlow**, developers work on long-lived feature branches that are merged back to a development branch and then to a release branch on a schedule. This gives teams more isolation but creates "integration hell" when branches diverge significantly. The choice between these strategies has direct consequences for your CI pipeline: trunk-based development requires your CI to be fast and reliable enough to run on every commit, while long-lived branches shift that cost to infrequent but painful merges.

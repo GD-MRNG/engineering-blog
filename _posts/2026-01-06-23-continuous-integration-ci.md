@@ -8,8 +8,6 @@ image: tier_2.jpg
 tags: [Tier 2, Core Lifecycle Stages, Concept]
 ---
 
-`[Tier 2, Core Lifecycle Stages, Concept]` 
-
 Continuous Integration is the practice of integrating every developer's work into a shared mainline frequently, ideally multiple times per day, with each integration validated automatically. The word "continuously" is doing real work in that definition. It means that the pain of integration is distributed across many small events rather than accumulated into one catastrophic "merge day."
 
 The most important principle in CI is **build reproducibility** : given the same source code and the same declared inputs, the build should always produce the same output. This sounds obvious but is frequently violated. Builds that depend on "latest" versions of dependencies will produce different outputs as those dependencies are updated by their authors. Builds that fetch resources from the network at build time are non-deterministic because those resources can change or disappear. Builds that embed the current timestamp in the artifact are by definition non-reproducible. Reproducibility matters because it is the foundation of trust: if you can't be certain that the artifact you built today is the same as the one you'll build from the same commit tomorrow, your confidence in any given deployment is undermined.

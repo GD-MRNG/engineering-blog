@@ -8,8 +8,6 @@ image: tier_3.jpg
 tags: [Tier 3, Cross-Cutting Disciplines, Concept]
 ---
 
-`[Tier 3, Cross-Cutting Disciplines, Concept]`
-
 Observability is the property of a system that allows you to understand its internal state by examining its external outputs. The distinction between observability and monitoring is important: monitoring is the practice of watching known metrics and alerting when they cross thresholds. Observability is the practice of building systems that can answer arbitrary questions about their internal state, including questions you didn't think to ask when you built the system. In practice, monitoring tells you *that* something is wrong. Observability tells you *why*.
 
 The **three pillars of observability** are metrics, logs, and traces, and understanding how they work together is more important than understanding any one of them in isolation.

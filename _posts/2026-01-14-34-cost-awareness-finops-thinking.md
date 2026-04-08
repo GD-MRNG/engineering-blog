@@ -8,8 +8,6 @@ image: tier_3.jpg
 tags: [Tier 3, Cross-Cutting Disciplines, Concept]
 ---
 
-`[Tier 3, Cross-Cutting Disciplines, Concept]`
-
 Every infrastructure decision has a financial dimension, and engineers who are unaware of the cost implications of their choices impose hidden costs on their organizations. FinOps (Financial Operations) is the discipline of bringing financial accountability to cloud infrastructure spending, treating it as a shared responsibility of engineering rather than an opaque bill managed by finance.
 
 The foundational principle is **resource right-sizing**: matching the resources you provision to the resources you actually need. Cloud infrastructure makes it easy to over-provision: if you're not sure whether you need two CPUs or four, you choose four "just to be safe." Over-provisioning is pervasive and expensive. A mature FinOps practice includes continuous monitoring of resource utilization and regular right-sizing of services where utilization is consistently low. This does not mean starving services of resources; it means ensuring that the capacity you're paying for is actually being used.

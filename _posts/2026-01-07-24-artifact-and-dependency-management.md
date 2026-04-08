@@ -8,8 +8,6 @@ image: tier_2.jpg
 tags: [Tier 2, Core Lifecycle Stages, Concept]
 ---
 
-`[Tier 2, Core Lifecycle Stages, Concept]`
-
 Once CI produces a verified artifact, that artifact needs a home. An **artifact registry** (also called a container registry or package registry depending on the artifact type) is the storage system for your built, versioned artifacts. The registry provides versioning (so you can identify exactly which version of the artifact is running where), promotion tracking (tagging an artifact as "staging-verified" before it is allowed into production), retention policies (cleaning up old artifacts to manage storage costs), and access control (preventing unauthorized parties from pulling or pushing artifacts).
 
 **Semantic versioning** is the convention by which artifacts are numbered in a way that communicates the nature of the change. A version number of the form `MAJOR.MINOR.PATCH` communicates whether a change is a breaking change (major), a backward-compatible addition (minor), or a backward-compatible fix (patch). Understanding semantic versioning is important for dependency management because it tells you how risky it is to update a dependency. Upgrading from `2.3.1` to `2.3.2` should be safe. Upgrading from `2.3.1` to `3.0.0` may require significant code changes on your part.

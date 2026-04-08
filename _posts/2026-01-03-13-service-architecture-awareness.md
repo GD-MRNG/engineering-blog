@@ -8,8 +8,6 @@ image: tier_1.jpg
 tags: [Tier 1,Foundation Knowledge,Concept]
 ---
 
-`[Tier 1, Foundation Knowledge, Concept]`
-
 The pattern by which your system is organized has cascading effects on every operational decision you will ever make. You do not need to be a systems architect, but you need to understand how your system's architectural pattern shapes the operational constraints you work within.
 
 A **monolithic architecture** is one where all the functionality of your application lives in a single deployable unit: one process, one codebase, one database. The operational simplicity of a monolith is often undervalued. Deployment is a single event. Debugging is straightforward because all code runs in the same process and you can inspect it with a single debugger. Transactions are local and reliable. Testing is simpler because there are no network boundaries to stub or mock. The challenges emerge at scale: a monolith can only scale as a whole (you can't scale just the checkout service during a sale), a failure in one part of the application can cascade into a failure of the whole thing, and multiple teams working on the same codebase eventually create coordination overhead.

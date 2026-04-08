@@ -8,8 +8,6 @@ image: tier_2.jpg
 tags: [Tier 2, Core Lifecycle Stages, Concept]
 ---
 
-`[Tier 2, Core Lifecycle Stages, Concept]`
-
 The **twelve-factor app** methodology, a set of principles for building portable, scalable software-as-a-service applications, contains a principle that is operationally critical: the strict separation of configuration from code. Configuration is anything that varies between deployment environments: database connection strings, API keys, service endpoint URLs, resource limits, feature flags. If this information is hardcoded in your application, then changing a database URL requires recompiling and redeploying your code, which is slow, dangerous, and unnecessary. If configuration is externalized, the same immutable artifact can be deployed to development, staging, and production environments with entirely different behaviors simply by changing the configuration injected into it at runtime.
 
 The mechanisms for configuration injection are **environment variables** (the simplest approach, appropriate for small numbers of values), **configuration files** mounted at runtime (appropriate for larger or more structured configuration), and **configuration management services** (centralized systems that distribute configuration to services dynamically and support versioning and rollback of configuration changes independently of code deployments). The key operational property of all these mechanisms is the same: the code doesn't know where it is running, which means the same code runs identically in all environments, eliminating the category of bugs that only appear in one environment because of a hardcoded assumption.

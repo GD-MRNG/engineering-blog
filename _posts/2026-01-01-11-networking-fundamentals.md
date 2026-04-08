@@ -8,8 +8,6 @@ image: tier_1.jpg
 tags: [Tier 1,Foundation Knowledge,Concept]
 ---
 
-`[Tier 1, Foundation Knowledge, Concept]`
-
 Networking is the most common blind spot for developers moving into operational work, and it is the most consequential one. When a developer thinks about their code, they tend to think in terms of function calls, objects, and data structures. When a request fails in production, however, the failure is almost never inside the code itself; it is almost always in the path the request takes to reach the code, or the path the response takes to return from it.
 
 You need to develop a mental model of the **request path**: the sequence of hops a user's request makes from their browser or client all the way to your application and back. That path typically looks something like this: the user's device sends a request to a **DNS resolver**, which translates a human-readable domain name into an IP address. That IP address points to a **CDN or edge node**, which may serve a cached response immediately. If not cached, the request flows through to a **load balancer**, which distributes incoming traffic across multiple instances of your service and provides health checking (removing unhealthy instances from rotation). From the load balancer, the request reaches a **reverse proxy**, which may handle TLS termination (decrypting the encrypted HTTPS traffic), route requests based on URL patterns, and forward them to the appropriate backend service. From there, the request reaches your application, which may itself make calls to a **database**, a **cache**, or another **internal service**.

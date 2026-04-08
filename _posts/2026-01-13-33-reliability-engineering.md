@@ -8,8 +8,6 @@ image: tier_3.jpg
 tags: [Tier 3, Cross-Cutting Disciplines, Concept]
 ---
 
-`[Tier 3, Cross-Cutting Disciplines, Concept]`
-
 Reliability engineering starts from a counterintuitive premise: systems will fail, and the goal is not to prevent all failures but to design systems that fail gracefully, recover quickly, and continuously improve their resilience based on what they learn from failures.
 
 **Error budgets** (already introduced in the observability section) are the organizing concept of reliability engineering. They change the framing of reliability from a binary ("the system is up or down") to a continuous ("we have used X% of our reliability budget this month"). Error budgets align engineering incentives and business expectations: they create a shared language for the conversation between product teams (who want to deploy new features) and engineering teams (who want to maintain stability). Neither velocity nor reliability wins in the abstract; they trade off against each other explicitly and transparently.
