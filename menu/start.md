@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "From Coder to Engineer"
-image: start_here.jpg
+image: start.jpg
 permalink: /start
 ---
 
