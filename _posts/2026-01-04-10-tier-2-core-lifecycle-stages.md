@@ -5,10 +5,8 @@ author: "Glenn Lum"
 date:   2026-01-04 10:00:00 +0800
 categories: journal
 image: tier_2.jpg
-tags: [Tier 2, Core Lifecycle Stages, Concept]
+tags: [Tier 2, Core Lifecycle Stages,Listing]
 ---
-
-`[Tier 2, Core Lifecycle Stages, Intro]`
 
 **Tier 2** covers the core lifecycle stages, the sequential process by which code becomes a deployed, running artifact. 
 
