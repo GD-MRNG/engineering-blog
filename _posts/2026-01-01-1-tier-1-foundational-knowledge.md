@@ -12,10 +12,10 @@ tags: [Tier 1,Foundation Knowledge,Listing]
 
 These are the mental models that must be in place before the rest of the map makes sense. Gaps here manifest not as "I don't know how to configure Kubernetes" but as "I don't understand why anything is failing and I don't know where to start."
 
-[1.1 Networking Fundamentals]({% post_url 2026-01-01-11-networking-fundamentals %})
+[1.1 Networking Fundamentals]({{ "/11-networking-fundamentals" | relative_url }})
 
-[1.2 Compute Abstractions]({% post_url 2026-01-02-12-compute-abstractions%})
+[1.2 Compute Abstractions]({{ "/12-compute-abstractions" | relative_url }})
 
-[1.3 Service Architecture Awareness]({% post_url 2026-01-03-13-service-architecture-awareness%})
+[1.3 Service Architecture Awareness]({{ "/13-service-architecture-awareness" | relative_url }})
 
 [← Back to Home]({{ "/" | relative_url }})
