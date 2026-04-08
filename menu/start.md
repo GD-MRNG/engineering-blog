@@ -11,13 +11,13 @@ This competency map below is organized around a single governing idea: software 
 
 To help you build a mental model, the framework is divided into three tiers. 
 
-[**Tier 1: Foundational Knowledge**]({{ "/1-tier-1-foundational-knowledge" | relative_url }})
+[**Tier 1: Foundational Knowledge**]({{ "/archive/" | relative_url }}#tier-1-foundational-knowledge)
 covers the foundational knowledge, the "physics" of how software runs, which underpins every decision in every other tier. 
 
-[**Tier 2: Core Lifecycle Stages**]({{ "/2-tier-2-core-lifecycle-stages" | relative_url }})
+[**Tier 2: Core Lifecycle Stages**]({{ "/archive/" | relative_url }}#tier-2-core-lifecycle-stages)
 covers the core lifecycle stages, the sequential process by which code becomes a deployed, running artifact. 
 
-[**Tier 3: Cross-Cutting Disciplines**]({{ "/3-tier-3-cross-cutting-disciplines" | relative_url }})
+[**Tier 3: Cross-Cutting Disciplines**]({{ "/archive/" | relative_url }}#tier-3-cross-cutting-disciplines)
 covers the cross-cutting disciplines, the practices that apply continuously at every stage and that separate reliable systems from fragile ones.
 
 The three tiers are not sequential phases. They are better understood as concentric layers. Tier 1 is the ground. Tier 2 is the structure built on that ground. Tier 3 is the ongoing maintenance, safety, and governance of that structure.
