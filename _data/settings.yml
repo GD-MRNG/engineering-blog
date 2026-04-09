@@ -8,7 +8,9 @@ google-ID: ''
 
 menu:
 - {name: 'Start Here',   url: 'start.html'}
-- {name: 'Archive',   url: 'archive.html'}
+- {name: 'T1 Archive',   url: 't1-archive.html'}
+- {name: 'T2 Archive',   url: 't2-archive.html'}
+- {name: 'T3 Archive',   url: 't3-archive.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
