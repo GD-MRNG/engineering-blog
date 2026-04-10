@@ -12,45 +12,59 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 ---
 
-#### Source Control and Collaboration
+## Source Control and Collaboration
 
-- `CONCEPT` [2.1 Source Control and Collaboration]({{ "/21-source-control-and-collaboration" | relative_url }})
+### L1
 
----
-
-#### Testing Strategy
-
-- `CONCEPT` [2.2 Testing Strategy]({{ "/22-testing-strategy" | relative_url }})
+`CONCEPT` [2.1 Source Control and Collaboration]({{ "/21-source-control-and-collaboration" | relative_url }})
 
 ---
 
-#### Continuous Integration (CI)
+## Testing Strategy
 
-- `CONCEPT` [2.3 Continuous Integration (CI)]({{ "/23-continuous-integration-ci" | relative_url }})
+### L1
 
----
-
-#### Artifact and Dependency Management
-
-- `CONCEPT` [2.4 Artifact and Dependency Management]({{ "/24-artifact-and-dependency-management" | relative_url }})
+`CONCEPT` [2.2 Testing Strategy]({{ "/22-testing-strategy" | relative_url }})
 
 ---
 
-#### Continuous Delivery and Deployment (CD)
+## Continuous Integration (CI)
 
-- `CONCEPT` [2.5 Continuous Delivery and Deployment (CD)]({{ "/25-continuous-delivery-and-deployment-cd" | relative_url }})
+### L1
 
----
-
-#### Configuration and Feature Management
-
-- `CONCEPT` [2.6 Configuration and Feature Management]({{ "/26-configuration-and-feature-management" | relative_url }})
+`CONCEPT` [2.3 Continuous Integration (CI)]({{ "/23-continuous-integration-ci" | relative_url }})
 
 ---
 
-#### Infrastructure as Code (IaC)
+## Artifact and Dependency Management
 
-- `CONCEPT` [2.7 Infrastructure as Code (IaC)]({{ "/27-infrastructure-as-code-iac" | relative_url }})
+### L1
+
+`CONCEPT` [2.4 Artifact and Dependency Management]({{ "/24-artifact-and-dependency-management" | relative_url }})
+
+---
+
+## Continuous Delivery and Deployment (CD)
+
+### L1
+
+`CONCEPT` [2.5 Continuous Delivery and Deployment (CD)]({{ "/25-continuous-delivery-and-deployment-cd" | relative_url }})
+
+---
+
+## Configuration and Feature Management
+
+### L1
+
+`CONCEPT` [2.6 Configuration and Feature Management]({{ "/26-configuration-and-feature-management" | relative_url }})
+
+---
+
+## Infrastructure as Code (IaC)
+
+### L1
+
+`CONCEPT` [2.7 Infrastructure as Code (IaC)]({{ "/27-infrastructure-as-code-iac" | relative_url }})
 
 ---
 

@@ -12,25 +12,33 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 ---
 
-#### Observability and Monitoring
+## Observability and Monitoring
+
+### L1
 
 `CONCEPT` [3.1 Observability and Monitoring]({{ "/31-observability-and-monitoring" | relative_url }})
 
 ---
 
-#### Security (DevSecOps)
+## Security (DevSecOps)
+
+### L1
 
 `CONCEPT` [3.2 Security (DevSecOps)]({{ "/32-security-devsecops" | relative_url }})
 
 ---
 
-#### Reliability Engineering
+## Reliability Engineering
+
+### L1
 
 `CONCEPT` [3.3 Reliability Engineering]({{ "/33-reliability-engineering" | relative_url }})
 
 ---
 
-#### Cost Awareness (FinOps Thinking)
+## Cost Awareness (FinOps Thinking)
+
+### L1
 
 `CONCEPT` [3.4 Cost Awareness (FinOps Thinking)]({{ "/34-cost-awareness-finops-thinking" | relative_url }})
 
