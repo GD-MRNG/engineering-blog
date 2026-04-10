@@ -44,6 +44,20 @@ These are the mental models that must be in place before the rest of the map mak
 
 `CONCEPT` [1.2 Compute Abstractions]({{ "/12-compute-abstractions" | relative_url }})
 
+### L2
+
+`DEPTH` [1.2.1 Virtual Machines and the Hypervisor Model]({{ "/121-virtual-machines-and-the-hypervisor-model" | relative_url }})
+
+`DEPTH` [1.2.2 Containers: Namespaces, cgroups, and the Isolation Model]({{ "/122-containers-namespaces-cgroups-and-the-isolation-model" | relative_url }})
+
+`DEPTH` [1.2.3 The Container Image: Layers, Registries, and Immutability]({{ "/123-the-container-image-layers-registries-and-immutability" | relative_url }})
+
+`DEPTH` [1.2.4 Container Orchestration: The Scheduling Problem]({{ "/124-container-orchestration-the-scheduling-problem" | relative_url }})
+
+`DEPTH` [1.2.5 Serverless and the Event-Driven Compute Model]({{ "/125-serverless-and-the-event-driven-compute-model" | relative_url }})
+
+`DEPTH` [1.2.6 Compute Resource Models: CPU, Memory, and I/O as First-Class Constraints]({{ "/126-compute-resource-models-cpu-memory-and-io-as-first-class-constraints" | relative_url }})
+
 ---
 
 ##  Service Architecture Awareness
