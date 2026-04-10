@@ -66,6 +66,22 @@ These are the mental models that must be in place before the rest of the map mak
 
 `CONCEPT` [1.3 Service Architecture Awareness]({{ "/13-service-architecture-awareness" | relative_url }})
 
+### L2
+
+`DEPTH` [1.3.1 The Monolith vs Microservices Spectrum]({{ "/131-the-monolith-vs-microservices-spectrum" | relative_url }})
+
+`DEPTH` [1.3.2 Synchronous vs Asynchronous Communication]({{ "/132-synchronous-vs-asynchronous-communication" | relative_url }})
+
+`DEPTH` [1.3.3 The API as a Contract: REST, gRPC, and Event Schemas]({{ "/133-the-api-as-a-contract-rest-grpc-and-event-schemas" | relative_url }})
+
+`DEPTH` [1.3.4 Service Discovery: How Services Find Each Other]({{ "/134-service-discovery-how-services-find-each-other" | relative_url }})
+
+`DEPTH` [1.3.5 Idempotency and Distributed State]({{ "/135-idempotency-and-distributed-state" | relative_url }})
+
+`DEPTH` [1.3.6 The Data Ownership Problem: Why Shared Databases Break Service Independence]({{ "/136-the-data-ownership-problem-why-shared-databases-break-service-independence" | relative_url }})
+
+`DEPTH` [1.3.7 Failure Modes in Distributed Systems: Partial Failure and Cascading Failure]({{ "/137-failure-modes-in-distributed-systems-partial-failure-and-cascading-failure" | relative_url }})
+
 ---
 
 [← Back to Home]({{ "/" | relative_url }})
