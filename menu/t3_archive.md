@@ -44,4 +44,13 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 ---
 
+## Emerging Technology
+
+### L1
+
+`CONCEPT` [3.5 Emerging Technology]({{ "/35-emerging-technology" | relative_url }})
+
+---
+
+
 [← Back to Home]({{ "/" | relative_url }})
