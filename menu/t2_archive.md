@@ -18,6 +18,20 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.1 Source Control and Collaboration]({{ "/21-source-control-and-collaboration" | relative_url }})
 
+### L2
+
+`DEPTH` [2.1.1 The Git Object Model: Commits, Trees, and Refs]({{ "/211-the-git-object-model-commits-trees-and-refs" | relative_url }})
+
+`DEPTH` [2.1.2 Branching Strategies: Trunk-Based Development vs GitFlow]({{ "/212-branching-strategies-trunk-based-development-vs-gitflow" | relative_url }})
+
+`DEPTH` [2.1.3 Merge Strategies: Merge Commits, Rebase, and Squash]({{ "/213-merge-strategies-merge-commits-rebase-and-squash" | relative_url }})
+
+`DEPTH` [2.1.4 The Pull Request as a Quality Gate]({{ "/214-the-pull-request-as-a-quality-gate" | relative_url }})
+
+`DEPTH` [2.1.5 Conflict Resolution: Textual vs Semantic Conflicts]({{ "/215-conflict-resolution-textual-vs-semantic-conflicts" | relative_url }})
+
+`DEPTH` [2.1.6 Monorepo vs Polyrepo: Repository Structure as an Architectural Decision]({{ "/216-monorepo-vs-polyrepo-repository-structure-as-an-architectural-decision" | relative_url }})
+
 ---
 
 ## Testing Strategy
