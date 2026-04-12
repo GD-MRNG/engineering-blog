@@ -40,6 +40,22 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 `CONCEPT` [3.2 Security (DevSecOps)]({{ "/32-security-devsecops" | relative_url }})
 
+### L2
+
+`DEPTH` [3.2.1 Shifting Security Left: From Audit to Embedded Practice]({{ "/321-shifting-security-left-from-audit-to-embedded-practice" | relative_url }})
+
+`DEPTH` [3.2.2 Threat Modeling: Thinking About What Can Go Wrong Before You Build]({{ "/322-threat-modeling-thinking-about-what-can-go-wrong-before-you-build" | relative_url }})
+
+`DEPTH` [3.2.3 The OWASP Top 10: The Recurring Vulnerability Classes]({{ "/323-the-owasp-top-10-the-recurring-vulnerability-classes" | relative_url }})
+
+`DEPTH` [3.2.4 Static and Dynamic Analysis: SAST and DAST]({{ "/324-static-and-dynamic-analysis-sast-and-dast" | relative_url }})
+
+`DEPTH` [3.2.5 The Principle of Least Privilege: Why Permissions Should Be Minimal by Default]({{ "/325-the-principle-of-least-privilege-why-permissions-should-be-minimal-by-default" | relative_url }})
+
+`DEPTH` [3.2.6 Secrets and Credential Management: Injection, Rotation, and Audit]({{ "/326-secrets-and-credential-management-injection-rotation-and-audit" | relative_url }})
+
+`DEPTH` [3.2.7 Supply Chain Security: SBOMs, Signing, and Dependency Provenance]({{ "/327-supply-chain-security-sboms-signing-and-dependency-provenance" | relative_url }})
+
 ---
 
 ## Reliability Engineering
