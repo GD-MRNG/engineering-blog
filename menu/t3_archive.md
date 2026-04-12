@@ -108,6 +108,20 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 `CONCEPT` [3.5 Emerging Technology]({{ "/35-emerging-technology" | relative_url }})
 
+### L2
+
+`DEPTH` [3.5.1 The Tradeoff Map: What Every New Technology Is Actually Buying and Paying]({{ "/351-the-tradeoff-map-what-every-new-technology-is-actually-buying-and-paying" | relative_url }})
+
+`DEPTH` [3.5.2 Stack Layer Diagnosis: Locating a New Technology in the Known Problem Space]({{ "/352-stack-layer-diagnosis-locating-a-new-technology-in-the-known-problem-space" | relative_url }})
+
+`DEPTH` [3.5.3 The Maturity Gradient: Understanding Where a Technology Sits in Its Lifecycle]({{ "/353-the-maturity-gradient-understanding-where-a-technology-sits-in-its-lifecycle" | relative_url }})
+
+`DEPTH` [3.5.4 Separating Signal from Momentum: Identifying Genuine Architectural Shifts]({{ "/354-separating-signal-from-momentum-identifying-genuine-architectural-shifts" | relative_url }})
+
+`DEPTH` [3.5.5 Transfer Learning: How Foundational Knowledge Extends to New Contexts]({{ "/355-transfer-learning-how-foundational-knowledge-extends-to-new-contexts" | relative_url }})
+
+`DEPTH` [3.5.6 The Adoption Decision: A Framework for Engaging With Emerging Technology in Production]({{ "/356-the-adoption-decision-a-framework-for-engaging-with-emerging-technology-in-production" | relative_url }})
+
 ---
 
 
