@@ -62,6 +62,18 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.3 Continuous Integration (CI)]({{ "/23-continuous-integration-ci" | relative_url }})
 
+### L2
+
+`DEPTH` [2.3.1 What CI Actually Means: The Discipline vs the Tool]({{ "/231-what-ci-actually-means-the-discipline-vs-the-tool" | relative_url }})
+
+`DEPTH` [2.3.2 The Anatomy of a CI Pipeline: Triggers, Stages, and Feedback Loops]({{ "/232-the-anatomy-of-a-ci-pipeline-triggers-stages-and-feedback-loops" | relative_url }})
+
+`DEPTH` [2.3.3 Build Reproducibility: Why the Same Source Should Always Produce the Same Artifact]({{ "/233-build-reproducibility-why-the-same-source-should-always-produce-the-same-artifact" | relative_url }})
+
+`DEPTH` [2.3.4 Fast Feedback as a Design Constraint]({{ "/234-fast-feedback-as-a-design-constraint" | relative_url }})
+
+`DEPTH` [2.3.5 The CI/CD Boundary: What CI Produces and Where It Goes]({{ "/235-the-cicd-boundary-what-ci-produces-and-where-it-goes" | relative_url }})
+
 ---
 
 ## Artifact and Dependency Management
