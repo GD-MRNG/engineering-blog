@@ -124,6 +124,18 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.6 Configuration and Feature Management]({{ "/26-configuration-and-feature-management" | relative_url }})
 
+### L2
+
+`DEPTH` [2.6.1 The Twelve-Factor Config Principle: Why Configuration Is Not Code]({{ "/261-the-twelve-factor-config-principle-why-configuration-is-not-code" | relative_url }})
+
+`DEPTH` [2.6.2 Configuration Hierarchy and Override Models]({{ "/262-configuration-hierarchy-and-override-models" | relative_url }})
+
+`DEPTH` [2.6.3 Secrets Management: Why Secrets Are Different from Configuration]({{ "/263-secrets-management-why-secrets-are-different-from-configuration" | relative_url }})
+
+`DEPTH` [2.6.4 Feature Flags: The Full Operational Model]({{ "/264-feature-flags-the-full-operational-model" | relative_url }})
+
+`DEPTH` [2.6.5 Configuration Drift: How Reality Diverges from Declared State]({{ "/265-configuration-drift-how-reality-diverges-from-declared-state" | relative_url }})
+
 ---
 
 ## Infrastructure as Code (IaC)
