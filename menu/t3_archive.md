@@ -86,6 +86,20 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 `CONCEPT` [3.4 Cost Awareness (FinOps Thinking)]({{ "/34-cost-awareness-finops-thinking" | relative_url }})
 
+### L2
+
+`DEPTH` [3.4.1 The Cloud Billing Model: On-Demand, Reserved, and Spot]({{ "/341-the-cloud-billing-model-on-demand-reserved-and-spot" | relative_url }})
+
+`DEPTH` [3.4.2 Resource Right-Sizing: Utilization vs Allocation]({{ "/342-resource-right-sizing-utilization-vs-allocation" | relative_url }})
+
+`DEPTH` [3.4.3 Cost Attribution: Tagging, Showback, and Chargeback]({{ "/343-cost-attribution-tagging-showback-and-chargeback" | relative_url }})
+
+`DEPTH` [3.4.4 The Cost of Data Transfer: Architecture Decisions and Network Egress]({{ "/344-the-cost-of-data-transfer-architecture-decisions-and-network-egress" | relative_url }})
+
+`DEPTH` [3.4.5 Reserved Instances and Savings Plans: Commitment as a Financial Tool]({{ "/345-reserved-instances-and-savings-plans-commitment-as-a-financial-tool" | relative_url }})
+
+`DEPTH` [3.4.6 Waste Identification: Idle Resources, Orphaned Assets, and Oversized Instances]({{ "/346-waste-identification-idle-resources-orphaned-assets-and-oversized-instances" | relative_url }})
+
 ---
 
 ## Emerging Technology
