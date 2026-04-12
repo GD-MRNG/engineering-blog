@@ -64,6 +64,20 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 `CONCEPT` [3.3 Reliability Engineering]({{ "/33-reliability-engineering" | relative_url }})
 
+### L2
+
+`DEPTH` [3.3.1 SLIs, SLOs, and Error Budgets: The Language of Reliability]({{ "/331-slis-slos-and-error-budgets-the-language-of-reliability" | relative_url }})
+
+`DEPTH` [3.3.2 Failure Modes in Distributed Systems: Partial Failure and Cascading Failure]({{ "/332-failure-modes-in-distributed-systems-partial-failure-and-cascading-failure" | relative_url }})
+
+`DEPTH` [3.3.3 Circuit Breakers, Retries, and Timeouts: The Resilience Primitives]({{ "/333-circuit-breakers-retries-and-timeouts-the-resilience-primitives" | relative_url }})
+
+`DEPTH` [3.3.4 Chaos Engineering: Deliberately Breaking Things]({{ "/334-chaos-engineering-deliberately-breaking-things" | relative_url }})
+
+`DEPTH` [3.3.5 Toil: The Invisible Reliability Tax]({{ "/335-toil-the-invisible-reliability-tax" | relative_url }})
+
+`DEPTH` [3.3.6 Runbooks and Incident Response: Operationalizing the Failure Model]({{ "/336-runbooks-and-incident-response-operationalizing-the-failure-model" | relative_url }})
+
 ---
 
 ## Cost Awareness (FinOps Thinking)
