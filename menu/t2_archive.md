@@ -104,6 +104,18 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.5 Continuous Delivery and Deployment (CD)]({{ "/25-continuous-delivery-and-deployment-cd" | relative_url }})
 
+### L2
+
+`DEPTH` [2.5.1 Delivery vs Deployment: The Most Important Distinction in CD]({{ "/251-delivery-vs-deployment-the-most-important-distinction-in-cd" | relative_url }})
+
+`DEPTH` [2.5.2 Deployment Strategies: Blue/Green, Canary, Rolling, and Recreate]({{ "/252-deployment-strategies-bluegreen-canary-rolling-and-recreate" | relative_url }})
+
+`DEPTH` [2.5.3 The Environment Pipeline: Promoting an Artifact Through Stages]({{ "/253-the-environment-pipeline-promoting-an-artifact-through-stages" | relative_url }})
+
+`DEPTH` [2.5.4 Rollback vs Roll Forward: Two Philosophies for Handling Bad Releases]({{ "/254-rollback-vs-roll-forward-two-philosophies-for-handling-bad-releases" | relative_url }})
+
+`DEPTH` [2.5.5 The Release as a Decoupled Event: Feature Flags and Dark Launches]({{ "/255-the-release-as-a-decoupled-event-feature-flags-and-dark-launches" | relative_url }})
+
 ---
 
 ## Configuration and Feature Management
