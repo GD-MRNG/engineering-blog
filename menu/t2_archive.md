@@ -40,6 +40,20 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.2 Testing Strategy]({{ "/22-testing-strategy" | relative_url }})
 
+### L2
+
+`DEPTH` [2.2.1 The Testing Pyramid: Cost, Speed, and Coverage as a Design Constraint]({{ "/221-the-testing-pyramid-cost-speed-and-coverage-as-a-design-constraint" | relative_url }})
+
+`DEPTH` [2.2.2 Test Doubles: Mocks, Stubs, Fakes, and Spies]({{ "/222-test-doubles-mocks-stubs-fakes-and-spies" | relative_url }})
+
+`DEPTH` [2.2.3 What Test Coverage Measures and What It Misses]({{ "/223-what-test-coverage-measures-and-what-it-misses" | relative_url }})
+
+`DEPTH` [2.2.4 Contract Testing: How Services Agree on Interfaces]({{ "/224-contract-testing-how-services-agree-on-interfaces" | relative_url }})
+
+`DEPTH` [2.2.5 Testing in Production: Feature Flags, Canary Analysis, and Observability as Tests]({{ "/225-testing-in-production-feature-flags-canary-analysis-and-observability-as-tests" | relative_url }})
+
+`DEPTH` [2.2.6 The Cost of Flaky Tests]({{ "/226-the-cost-of-flaky-tests" | relative_url }})
+
 ---
 
 ## Continuous Integration (CI)
