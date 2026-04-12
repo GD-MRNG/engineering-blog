@@ -144,6 +144,20 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.7 Infrastructure as Code (IaC)]({{ "/27-infrastructure-as-code-iac" | relative_url }})
 
+### L2
+
+`DEPTH` [2.7.1 Declarative vs Imperative Infrastructure: The Model That Changes Everything]({{ "/271-declarative-vs-imperative-infrastructure-the-model-that-changes-everything" | relative_url }})
+
+`DEPTH` [2.7.2 State: The Source of Truth and Source of Risk]({{ "/272-state-the-source-of-truth-and-source-of-risk" | relative_url }})
+
+`DEPTH` [2.7.3 Idempotency: Why Applying Twice Must Be Safe]({{ "/273-idempotency-why-applying-twice-must-be-safe" | relative_url }})
+
+`DEPTH` [2.7.4 The Plan/Apply Cycle: Preview as a Safety Mechanism]({{ "/274-the-planapply-cycle-preview-as-a-safety-mechanism" | relative_url }})
+
+`DEPTH` [2.7.5 Modules and Code Reuse in Infrastructure]({{ "/275-modules-and-code-reuse-in-infrastructure" | relative_url }})
+
+`DEPTH` [2.7.6 Drift Detection: When Reality Diverges from Code]({{ "/276-drift-detection-when-reality-diverges-from-code" | relative_url }})
+
 ---
 
 [← Back to Home]({{ "/" | relative_url }})
