@@ -18,6 +18,20 @@ These practices don't belong to any single stage of the lifecycle; they apply ac
 
 `CONCEPT` [3.1 Observability and Monitoring]({{ "/31-observability-and-monitoring" | relative_url }})
 
+### L2
+
+`DEPTH` [3.1.1 Monitoring vs Observability: Known Unknowns vs Unknown Unknowns]({{ "/311-monitoring-vs-observability-known-unknowns-vs-unknown-unknowns" | relative_url }})
+
+`DEPTH` [3.1.2 The Three Pillars: Metrics, Logs, and Traces]({{ "/312-the-three-pillars-metrics-logs-and-traces" | relative_url }})
+
+`DEPTH` [3.1.3 Metrics: Counters, Gauges, Histograms, and What Gets Lost in Aggregation]({{ "/313-metrics-counters-gauges-histograms-and-what-gets-lost-in-aggregation" | relative_url }})
+
+`DEPTH` [3.1.4 Distributed Tracing: How Requests Travel Across Service Boundaries]({{ "/314-distributed-tracing-how-requests-travel-across-service-boundaries" | relative_url }})
+
+`DEPTH` [3.1.5 The SLI/SLO/SLA Framework: Defining Reliability from the User's Perspective]({{ "/315-the-slislosla-framework-defining-reliability-from-the-users-perspective" | relative_url }})
+
+`DEPTH` [3.1.6 Alerting Philosophy: Symptoms Over Causes, and the Cost of Alert Fatigue]({{ "/316-alerting-philosophy-symptoms-over-causes-and-the-cost-of-alert-fatigue" | relative_url }})
+
 ---
 
 ## Security (DevSecOps)
