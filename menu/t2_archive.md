@@ -82,6 +82,20 @@ This is the assembly line. Code enters on one end as text in a developer's edito
 
 `CONCEPT` [2.4 Artifact and Dependency Management]({{ "/24-artifact-and-dependency-management" | relative_url }})
 
+### L2
+
+`DEPTH` [2.4.1 What an Artifact Is: The Unit of Deployment]({{ "/241-what-an-artifact-is-the-unit-of-deployment" | relative_url }})
+
+`DEPTH` [2.4.2 Semantic Versioning: What a Version Number Communicates]({{ "/242-semantic-versioning-what-a-version-number-communicates" | relative_url }})
+
+`DEPTH` [2.4.3 Dependency Graphs and Transitive Dependencies]({{ "/243-dependency-graphs-and-transitive-dependencies" | relative_url }})
+
+`DEPTH` [2.4.4 Artifact Registries: Storage, Distribution, and Promotion]({{ "/244-artifact-registries-storage-distribution-and-promotion" | relative_url }})
+
+`DEPTH` [2.4.5 Dependency Pinning vs Version Ranges: The Reproducibility Tradeoff]({{ "/245-dependency-pinning-vs-version-ranges-the-reproducibility-tradeoff" | relative_url }})
+
+`DEPTH` [2.4.6 Supply Chain Security: Why Your Dependencies Are Your Attack Surface]({{ "/246-supply-chain-security-why-your-dependencies-are-your-attack-surface" | relative_url }})
+
 ---
 
 ## Continuous Delivery and Deployment (CD)
