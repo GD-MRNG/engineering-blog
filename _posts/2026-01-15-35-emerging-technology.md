@@ -40,16 +40,6 @@ The engineers who build durable expertise across a long career are not the ones 
 
 That is what the foundational posts in this series are building toward. Not a catalogue of technologies, but a vocabulary for diagnosing any technology — including ones that do not exist yet.
 
-**Level 2 goes deeper into the mechanics of this habit** — what the underlying problem layers actually look like, how to identify what a new technology is trading away, and where reasoning from foundations breaks down or needs updating when something is genuinely novel.
-
----
-
-## Key Takeaways
-
-- The disorientation engineers feel around new technology is usually a framing problem, not a knowledge gap — new tools get introduced through their novel surface, obscuring the familiar foundations beneath.
-- Every technology operates on the same underlying substrate and inherits its constraints, regardless of how new its interface appears.
-- Engineers who learn tools without the reasoning behind them have to start from scratch with each new wave. Engineers who understand the reasoning evaluate each wave against a frame that doesn't expire.
-- The most useful first question when encountering something new is not "what is this?" but "what problem is this solving, and what is it trading away to solve it?"
-- Strong foundational knowledge does not become obsolete when new technology appears. It becomes the lens through which new technology can be understood quickly and evaluated accurately.
+Level 2 goes deeper into the mechanics of this habit — what the underlying problem layers actually look like, how to identify what a new technology is trading away, and where reasoning from foundations breaks down or needs updating when something is genuinely novel.
 
 [← Back to Home]({{ "/" | relative_url }})
