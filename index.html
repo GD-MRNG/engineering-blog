@@ -1,4 +1,16 @@
 ---
-layout: home
-title: Home
+layout: none
+permalink: /
+sitemap: false
 ---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url={{ '/start' | relative_url }}">
+  <link rel="canonical" href="{{ '/start' | relative_url }}">
+</head>
+<body>
+  <script>window.location.replace("{{ '/start' | relative_url }}");</script>
+</body>
+</html>
