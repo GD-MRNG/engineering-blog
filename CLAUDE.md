@@ -67,7 +67,8 @@ Archive pages use Jekyll relative URL links: `{{ "/slug-here" | relative_url }}`
 
 - `_config.yml` — Jekyll build settings, plugins, permalink style (`:title`)
 - `_data/settings.yml` — menu items, social links, Disqus, Google Analytics, pagination labels
-- `menu/start.md` — "Start Here" page explaining the three-tier framework
+- `menu/start.md` — landing page ("From Coder to Engineer"); site root redirects here via `index.html`
+- `index.html` — meta-refresh + JS redirect to `/start`; not a content page
 
 ## L1 vs L2 post structure
 
