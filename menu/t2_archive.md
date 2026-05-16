@@ -4,7 +4,7 @@ title: "T2 Archive"
 permalink: /t2-archive
 ---
 
-<img src="{{ site.github.url }}/assets/img/tier_2.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/tier_2.jpg">
 
 ## Tier 2: Core Lifecycle Stages
 

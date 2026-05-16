@@ -4,7 +4,7 @@ title: "T3 Archive"
 permalink: /t3-archive
 ---
 
-<img src="{{ site.github.url }}/assets/img/tier_3.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/tier_3.jpg">
 
 ## Tier 3: Cross-Cutting Disciplines
 

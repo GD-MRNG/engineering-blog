@@ -4,7 +4,7 @@ title: "T1 Archive"
 permalink: /t1-archive
 ---
 
-<img src="{{ site.github.url }}/assets/img/tier_1.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/tier_1.jpg">
 
 ## Tier 1: Foundation Knowledge
 
