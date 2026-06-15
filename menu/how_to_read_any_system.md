@@ -6,8 +6,6 @@ permalink: /how-to-read-any-system
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/img/read_any_system.jpg">
 
-## How to Read Any System
-
 *A strategy map for orienting in any production system.*
 
 Tiers 1–3 are knowledge — what is true about software in general. This page is the skill of using that knowledge on a system you have never seen. They are different abilities, and conflating them is why so much studying produces so little confidence in front of real code. You can hold every earlier concept in your head and still open a production repository — thousands of files, a half-familiar framework — and feel completely lost. That feeling is not a knowledge gap. It is an orientation gap, and it has its own remedy.
