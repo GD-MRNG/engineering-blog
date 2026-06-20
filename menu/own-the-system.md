@@ -4,6 +4,8 @@ title: "Own the System"
 permalink: /own-the-system
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/own_the_system.jpg">
+
 Most engineers inherit systems they didn't design, built by people who've since left, running infrastructure owned by someone else. You are handed a codebase and expected to operate it — to keep it running, extend it, fix it at 3am — without ever being given the keys. The keys are not handed out. You take them.
 
 Owning a system means you can answer: how does work get in? What path does it travel? Where does state live? What happens when something it depends on fails? How does a change reach production? Where do you look first when it breaks? These are not academic questions. They are the difference between someone who executes instructions and someone who has genuine leverage over the thing they operate.
