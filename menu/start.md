@@ -26,7 +26,7 @@ When you encounter a problem in practice, you will find that it almost always sp
 
 The three tiers are knowledge — what is true about software in general. Putting that knowledge to work on a system you have never seen is a separate skill, and it has its own page.
 
-[**How to Read Any System**]({{ "/how-to-read-any-system.html" | relative_url }}) — a strategy map for orienting in a real production system. Where the three tiers map the body of knowledge, this page maps the act of finding that knowledge inside an unfamiliar system: the difference between knowing how software works and being able to understand the specific piece of software in front of you. It is the bridge between everything above and the real thing on your screen.
+[**Own the System**]({{ "/own-the-system" | relative_url }}) — a strategy map for taking control of any production system you've never seen before. Where the three tiers map the body of knowledge, this page maps the act of finding that knowledge inside a real codebase: the difference between knowing how software works and having genuine leverage over the specific system in front of you. It is the bridge between everything above and the real thing on your screen.
 
 ---
 
