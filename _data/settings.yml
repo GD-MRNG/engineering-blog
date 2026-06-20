@@ -8,10 +8,10 @@ google-ID: ''
 
 menu:
 - {name: 'Start Here',   url: 'start.html'}
-- {name: 'T1 Archive',   url: 't1-archive.html'}
-- {name: 'T2 Archive',   url: 't2-archive.html'}
-- {name: 'T3 Archive',   url: 't3-archive.html'}
-- {name: 'How to Read Any System',   url: 'how-to-read-any-system.html'}
+- {name: 'Tier 1',   url: 't1.html'}
+- {name: 'Tier 2',   url: 't2.html'}
+- {name: 'Tier 3',   url: 't3.html'}
+- {name: 'Reading Systems',   url: 'reading-systems.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
