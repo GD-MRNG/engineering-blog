@@ -11,7 +11,7 @@ menu:
 - {name: 'Tier 1',   url: 't1.html'}
 - {name: 'Tier 2',   url: 't2.html'}
 - {name: 'Tier 3',   url: 't3.html'}
-- {name: 'Reading Systems',   url: 'reading-systems.html'}
+- {name: 'Own the System',   url: 'own-the-system.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
