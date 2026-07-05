@@ -4,7 +4,7 @@ title: "Own the System"
 permalink: /own-the-system
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/img/own_the_system.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/img/start.jpg">
 
 Most engineers inherit systems they didn't design, built by people who've since left, running infrastructure owned by someone else. You are handed a codebase and expected to operate it — to keep it running, extend it, fix it at 3am — without ever being given the keys. The keys are not handed out. You take them.
 
